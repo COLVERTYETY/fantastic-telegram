@@ -1,0 +1,4 @@
+bluepy
+pyqtgraph
+PyQt5
+numpy
